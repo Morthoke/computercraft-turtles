@@ -142,6 +142,9 @@ if not("operationData.txt") then
 			upTubeX = upTubeX + 2
 			upTubeZ = upTubeZ - 1
 		end
+
+		-- Move Drone Forwards 1 Spot
+
 	end
 end
 
