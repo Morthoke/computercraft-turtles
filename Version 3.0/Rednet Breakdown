@@ -1,0 +1,17 @@
+Rednet Messages
+
+TurtleName:status ==== Current Goal of turtle 
+	Control : waiting // setup // no drones
+	Farming : waiting // farming // refueling // dumping
+	Setup   : waiting // digging tunnels // fueling // waiting for storage // waiting for fuel // dumping
+	Mining  : waiting // minning // fueling // dumping // moving
+
+Turtlename:count ==== Current count of total harvests of turtle
+
+TurtleName:cropType ==== Crop turtle is farming
+
+NewFarmTurtle ==== New turtles name
+
+NewMineControl ==== New Control Turtle
+
+TurtleName:deployedCount ==== Current amount of turtles deployed from the control turtle named
