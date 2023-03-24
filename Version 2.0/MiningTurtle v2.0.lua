@@ -1042,3 +1042,4 @@ while true do
 		miningDrone()
 	end
 end
+
