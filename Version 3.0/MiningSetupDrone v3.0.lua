@@ -32,7 +32,7 @@ status = "" -- waiting // minning // fueling // dumping // moving // setup
 orientations = {"north", "east", "south", "west"}
 xDiff = {0, 1, 0, -1}
 zDiff = {-1, 0, 1, 0}
-fuelTypesAccepted = {"thermal:charcoal_block", "minecraft:coal", "minecraft:charcoal"
+fuelTypesAccepted = {"thermal:charcoal_block", "minecraft:coal", "minecraft:charcoal"}
 	blockedMineItems = {"minecraft:spawner", "forbidden_arcanus:stella_arcanum", "minecraft:glass", "tconstruct:seared_bricks", 
 	"tconstruct:seared_stone", "create:gantry_shaft", "tconstruct:smeltery_controller", "tconstruct:seared_fuel_tank",
 	"tconstruct:seared_drain", "create:redstone_link", "create:andesite_casing", "create:cogwheel", "create:large_cogwheel", 
